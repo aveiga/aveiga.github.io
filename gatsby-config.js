@@ -3,7 +3,7 @@ module.exports = {
     title: `andreveiga.dev`,
     author: {
       name: `André Veiga`,
-      summary: `, Chief Software Architect, music maker, lover of all things Frontend and Kubernetes related`,
+      summary: `, Software Architect, lover of all things Frontend, NodeJS and Kubernetes, music maker`,
     },
     description: `André Veiga's personal dev-related blog`,
     siteUrl: `https://www.andreveiga.dev/`,
@@ -112,13 +112,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `André Veiga Development Blog`,
+        short_name: `andreveiga.dev`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/andreveiga-icon.jpeg`, // This path is relative to the root of the site.
       },
     },
     `gatsby-plugin-react-helmet`,
