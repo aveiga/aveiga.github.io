@@ -3,7 +3,7 @@ module.exports = {
     title: `andreveiga.dev`,
     author: {
       name: `André Veiga`,
-      summary: `, Software Architect, lover of all things Frontend, NodeJS and Kubernetes, music maker`,
+      summary: `, Software Architect, lover of all things micro-services, Kubernetes and cyber-security, music maker`,
     },
     description: `André Veiga's personal dev-related blog`,
     siteUrl: `https://www.andreveiga.dev/`,
